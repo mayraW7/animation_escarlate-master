@@ -1,6 +1,6 @@
 Trabalho em grupo:
 
-https://github.com/Jessicadelfischer, github.com/anaysfernanda;
+github.com/Jessicadelfischer, github.com/anaysfernanda;
 
 O objetivo desse trabalho é que vocês apliquem animações na página!
 
